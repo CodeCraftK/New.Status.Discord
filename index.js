@@ -35,7 +35,7 @@ client.on('ready', async () => {
   const r = new Discord.RichPresence()
     .setApplicationId('1265825059692609587')
     .setType('PLAYING')
-    .setURL('https://www.twitch.tv/apparentlyjack_rl') 
+    .setURL('https://www.twitch.tv/mr_code_new') 
     .setState('Mr Buy is here')
     .setName('𝓜𝓡⛥')
     .setDetails(`Nitro is now`)
